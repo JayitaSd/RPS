@@ -1,2 +1,2 @@
 # RPS
-A simple Rock Paper Scissor game using HTML, CSS and JavaScript
+A simple and a basic Rock Paper Scissor game-website using HTML, CSS and JavaScript
